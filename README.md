@@ -82,7 +82,7 @@ bizpro/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Tomiwamiles/rest_portfolio.git
+   git clone https://github.com/Tomiwamiles/bizpro.git
    cd bizpro
    ```
 
